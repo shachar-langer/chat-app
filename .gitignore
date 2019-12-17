@@ -1,2 +1,8 @@
+# Generated modules and files
 node_modules
+
+# Classified configuration file
 config
+
+# macOS .DS_Store files
+**/.DS_Store
